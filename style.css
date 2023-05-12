@@ -1,0 +1,30 @@
+  .headline{
+    text-align: center;
+    padding-top: 3px;
+  }
+  .lift{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   padding-top: 2px;
+  }
+  .manBA{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 90px;
+  }
+  .womanBA{
+    width: 300px;
+    height: 200px;
+  }
+  .button2 {
+    background-color: #008CBA;
+    font-size: 12px;
+    position: sticky;
+    bottom: 0;
+    font-size: x-large;
+    display: grid;
+margin: auto;}
